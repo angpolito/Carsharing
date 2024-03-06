@@ -19,11 +19,13 @@ Code is realized in C and it is divided into 4 sections:
   - gestione_guidatori.c (header file: gestione_guidatori.h)
   - gestione_viaggi.c (header file: gestione_viaggi.h)
   - visualizza_menu.c (header file: visualizza_menu.h)
+
 Header files:
   - gestione_guidatori.h
   - gestione_viaggi.h
   - visualizza_menu.h
   - strutture.h
+
 There are also two .bin files to permanently store data:
   - file_temporaneo.bin
   - file_viaggi.bin
