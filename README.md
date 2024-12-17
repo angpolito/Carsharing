@@ -1,5 +1,5 @@
-# carsharing
-University project made in C for the "Computer Laboratory" course during the 1st year of my BSc in Computer Science at the University of Bari Aldo Moro.
+# Carsharing
+**Carsharing** is a project in C developed for the course *Laboratorio di Informatica* (*Computer Laboratory*) during the 2022/2023 academic year, (1st year of the BSc program in *Informatica* (*Computer Science*)) at the *University of Bari Aldo Moro*.
 
 // !!! Disclaimer !!!
 This was my first project in C, so there may be mistakes, and perhaps the code could be better optimized. The projecting and implementation were directly handled by Angelo Polito, while the project's outline was conceived by the teacher. The implementation correctly meets the specified requirements.
